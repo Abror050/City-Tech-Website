@@ -48,7 +48,7 @@
 
 #banner {
     height: 60vh;
-    background-image: url(../it-company.jpg);
+    background: url('it-company.jpg');
     background-size: cover;
     background-position: center -200px;
     text-align: center;
